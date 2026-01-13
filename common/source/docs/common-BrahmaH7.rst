@@ -5,8 +5,8 @@ BRAHMA H7
 ==========
 
 
-.. image:: ../../../images/BRAHMA-H7-PIN-Layout.png       
-    :target: ../_images/BRAHMA-H7-PIN-Layout.png                
+.. image:: ../../../images/BRAHMA-H7-Pin-Layout.png       
+    :target: ../_images/BRAHMA-H7-Pin-Layout.png                
 
 
 The BRAHMA H7 is a flight controller designed and manufactured by `Darkmatter <https://thedarkmatter.in/>`_ in India.It is a high‑performance STM32H7‑based flight controller.
@@ -171,4 +171,5 @@ Warranty and Support
 The BRAHMA H7 flight controller includes a **6‑month warranty** from the date of purchase, excluding physical or water damage.
 
 Written by Hritam Dey
+
 [copywiki destination="plane,copter,rover,blimp,sub"]
