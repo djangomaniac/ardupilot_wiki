@@ -76,7 +76,7 @@ UART Mapping
 The UARTs are marked Rn and Tn in the pinouts. The Rn pin is the receive pin for UARTn and Tn is the transmit pin.
 
 | Port | UART    | Default Use   | TX DMA | RX DMA |
-|------|---------|---------------|--------|--------|
+|======|=========|===============|========|========|
 | 0    | USB     | Console/MAVLink | ✘      | ✘      |
 | 1    | UART7   | Telemetry1    | ✔      | ✔      |
 | 2    | USART1 | Telemetry2    | ✔      | ✔      |
@@ -175,3 +175,4 @@ The BRAHMA H7 flight controller includes a **6‑month warranty** from the date 
 Written by Hritam Dey
 
 [copywiki destination="plane,copter,rover,blimp,sub"]
+
